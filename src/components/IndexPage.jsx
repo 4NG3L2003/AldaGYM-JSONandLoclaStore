@@ -53,6 +53,7 @@ const IndexPage = () => {
                 <li>Moreno Alva Neil Orlando</li>
                 <li>Rodríguez Carbajal Pool Jonatan</li>
                 <li>Osmar Daniel Puicon Aquino</li>
+                <li>Victor  Antonio Seperak Reyes</li>
               </ul>
             </div>
 
@@ -60,7 +61,7 @@ const IndexPage = () => {
             <div className="col-md-4 text-center mb-3 mb-md-0">
               <p className="mb-2">Síguenos en nuestras redes sociales</p>
               <a
-                href="https://www.facebook.com"
+                href="https://www.facebook.com/aldagymperu"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mx-2"
@@ -69,7 +70,7 @@ const IndexPage = () => {
                 <FaFacebookSquare />
               </a>
               <a
-                href="https://www.instagram.com"
+                href="https://www.instagram.com/aldagymperu/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mx-2"
