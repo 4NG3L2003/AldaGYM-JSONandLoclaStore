@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "tipo": "Mensual",
+    "descripcion": "Acceso ilimitado por un mes",
+    "precio": 50
+  },
+  {
+    "id": 2,
+    "tipo": "Trimestral",
+    "descripcion": "Acceso por tres meses",
+    "precio": 135
+  },
+  
+
+  {
+    "id": 3,
+    "tipo": "Anual",
+    "descripcion": "Acceso por un año completo",
+    "precio": 480
+  }
+]

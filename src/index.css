@@ -1,0 +1,18 @@
+.logo {
+    width: 60px; /* Ajusta el ancho del logo a un tamaño más pequeño */
+    height: auto; /* Mantiene la proporción del logo */
+    border-radius: 30%;
+}
+
+.carousel-item {
+    max-height: 700px;
+}
+
+.card-img-top {
+    max-height: 500px;
+    border-radius: 20%;
+}
+
+.card {
+    border-radius: 20%;
+}
